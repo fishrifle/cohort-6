@@ -4,8 +4,29 @@ Your code goes below.
 
 */
 
+let x = 3
+let y = 10
+let z = 5
+
+let name = "jesse"
 
 
+function multiply(a){
+  x = x * a
+}
+
+function modYBy(b) {
+
+}
+
+function opposite(z) {
+  
+}
+
+
+ let makeFullName = "jesseDavis"
+
+ 
 
 
 /*********************************************************************************************************************

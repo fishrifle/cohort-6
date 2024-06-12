@@ -19,3 +19,4 @@ You'll only write one function this time, but there are various inputs you'll ne
 - Copy, create, and navigate to this repo.
 - In a terminal (preferably a full-screen one), run `npm test`.
 - Code away until the results are all green.
+# fizzy

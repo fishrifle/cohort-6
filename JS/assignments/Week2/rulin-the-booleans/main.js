@@ -1,6 +1,17 @@
 /********************
  * YOUR CODE BELOW! *
  ********************/
+function moreThan5(num) {
+if (num <= 5) {
+return false
+} else {
+  return true
+}
+}
+
+function isNewTopScore() {
+  
+}
 
 
 

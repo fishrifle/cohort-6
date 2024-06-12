@@ -1,6 +1,20 @@
 /******************
  * YOUR CODE BELOW *
  ******************/
+let myFirstName = "Jesse"
+let myLastName = "Davis"
+let myFavoriteCeleb = "Jim Carey"
+let mySentence = "myFirstName + myLastName + myFavoriteCeleb"
+let myLuckyNum = 13
+let myAge = 38
+let myHeight = 69
+let myFavoriteYear = 2000
+let mySum = 5 + 2317 + 36
+console.log(mySum)
+let myProduct = 232 * 43 / 2 + 4
+console.log(myProduct)
+let myHeightAndAge = myAge + myHeight
+console.log(myHeightAndAge)
 
 
 /*********************************************************************************************************************
